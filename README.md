@@ -1,4 +1,4 @@
-# 🌐 Static Website Hosting with AWS S3 + CloudFront + SSL + GoDaddy
+### 🌐 Static Website Hosting with AWS S3 + CloudFront + SSL + GoDaddy
 
 This project hosts a static website using:
 - 📦 Amazon S3 (for storage)
