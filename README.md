@@ -66,15 +66,12 @@ Visit:
 
 https://blog.gopendra2311.xyz
 
-pgsql
-Copy
-Edit
 
 You should see your static site served securely over HTTPS 🚀
 
 ---
 
-## 🔐 Optional: S3 Bucket Policy (Public Access)
+## 🔐 S3 Bucket Policy (Public Access)
 
 ```json
 {
